@@ -1,0 +1,1 @@
+This is just a simple implementation of a Caesar encryption that I wrote the semester after my first C++ class. We had to implement this for a project using rotating arrays, but I wanted to make a more idiomatic implementation that leveraged the standard library a bit better.
